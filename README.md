@@ -21,9 +21,16 @@ Which Texas counties show the greatest need for healthcare workforce investment,
 - Power BI
 - Power Query
 - DAX
+- SQL
 - Excel/CSV data preparation
 - Public healthcare datasets
 - Data modeling and dashboard design
+
+## SQL Implementation
+
+The repository includes a complementary SQL implementation demonstrating how the project's data could be structured and transformed in a relational database environment. The SQL scripts include table creation, county-level analytical views, multi-source joins, common table expressions (CTEs), window functions, and a draft healthcare-access priority scoring framework.
+
+The published Power BI dashboard does not execute these SQL scripts directly. Its final data-import and transformation workflow was completed in Power Query. The SQL files are included to demonstrate transferable SQL, data-modeling, and analytical-query skills using the project's healthcare-access use case.
 
 ## Public Data Sources
 
