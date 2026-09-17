@@ -14,6 +14,7 @@ Which Texas counties show the greatest need for healthcare workforce investment,
 
 - [Power BI workbook](powerbi/TX%20Healthcare%20Workforce%20Access.pbix)
 - [PDF dashboard preview](exports/TX%20Healthcare%20Workforce%20Access.pdf)
+- [Final project presentation](exports/Texas%20Healthcare%20Workforce%20Access%20%26%20Community%20Needs.pdf)
 
 ## Tools Used
 
