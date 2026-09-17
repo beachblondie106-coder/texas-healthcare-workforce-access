@@ -1,0 +1,15 @@
+County Count =
+DISTINCTCOUNT('stg_cdc_places_tx_county'[county_fips])
+
+Measure Count =
+DISTINCTCOUNT('stg_cdc_places_tx_county'[measure_id])
+
+CDC Row Count =
+COUNTROWS('stg_cdc_places_tx_county')
+
+Blank Estimate Count =
+COUNTBLANK('stg_cdc_places_tx_county'[estimate_value])
+
+Average Estimate =
+AVERAGE('stg_cdc_places_tx_county'[estimate_value])
+
